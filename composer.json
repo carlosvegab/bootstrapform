@@ -1,0 +1,34 @@
+{
+    "name": "cvega/bootstrapform",
+    "description": "Components for a bootstrap form",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "require-dev": {
+        "laravel/framework": "^8.0"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Cvega\\Bootstrapform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "carlos@mediadvanced.es"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cvega\\Bootstrapform\\BootstrapformServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
+}
