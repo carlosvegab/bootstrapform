@@ -49,7 +49,7 @@ You must use it in your views:
 </form>
 ```
 
-Each one of this components will render
+Each one of this components will render the following code.
 
 Inputs:
 
