@@ -59,7 +59,7 @@ Inputs:
 ```bash
     <div class="mb-3">
       <label for="NAME_FOR_NAME_AND_ID" class="form-label">TEXT FOR LABEL</label>
-      <input type="text" class="form-control" name="NAME_FOR_NAME_AND_ID" id="NAME_FOR_NAME_AND_ID" placeholder="nombre" value="VALOR">
+      <input type="text" class="form-control" name="NAME_FOR_NAME_AND_ID" id="NAME_FOR_NAME_AND_ID" placeholder="TEXT FOR LABEL" value="VALOR">
     </div>
 ```
 
